@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLH Alexa", "MLH Alexa\MLH Alexa.csproj", "{62E89563-FB8E-45A0-9121-E027492DEC41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62E89563-FB8E-45A0-9121-E027492DEC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E89563-FB8E-45A0-9121-E027492DEC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E89563-FB8E-45A0-9121-E027492DEC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E89563-FB8E-45A0-9121-E027492DEC41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {067ECB7D-0D77-40D9-9AC5-67A48590D351}
+	EndGlobalSection
+EndGlobal
